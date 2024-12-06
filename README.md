@@ -22,7 +22,7 @@
   - CSS
   - Vue.js
 - **Дополнительные технологии:**
-  - REST API
+  - FAST API
 
 ## Проекты
 - https://github.com/farrukhh09/VideoHosting
