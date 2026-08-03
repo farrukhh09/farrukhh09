@@ -1,120 +1,150 @@
-# 👋 Привет! Я Фаррух Мирзаев
+<h1 align="center">Привет 👋, я Фаррух Мирзаев</h1>
 
-###  · Backend & Mobile Developer · IT-энтузиаст
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Студент+программной+инженерии;Backend+%26+Mobile+Developer;Flutter+%7C+Java+%7C+Kotlin+%7C+Python;Создаю+решения+для+реальных+задач" alt="Анимация" />
-</p>
+<h3 align="center">
+  Software Engineering Student | Developer | IT Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://github.com/farrukhh09">
-    <img src="https://img.shields.io/github/followers/farrukhh09?label=Подписчики&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=farrukhh09&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Просмотры профиля"/>
   </a>
-  <a href="https://github.com/farrukhh09?tab=repositories">
-    <img src="https://img.shields.io/badge/Репозитории-Посмотреть-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/farrukhh09">
+    <img src="https://img.shields.io/github/followers/farrukhh09?label=Подписчики&style=flat" alt="GitHub followers"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 Обо мне
+## 👨‍💻 Обо мне
 
-Я студент направления **«Программная инженерия»**, интересующийся разработкой программных систем, мобильных приложений и серверных решений.
+🎓 Студент **РТУ МИРЭА** по направлению **09.03.04 — Программная инженерия**
 
-Мне особенно интересны:
+💻 Интересуюсь разработкой программного обеспечения, backend и mobile-разработкой.
 
-* 🖥️ Backend-разработка
-* 📱 Мобильная разработка
-* ☁️ DevOps и инфраструктура
-* 🗄️ Базы данных и архитектура систем
-* 🧪 Нагрузочное и производительное тестирование
-* 📊 Мониторинг программных систем
-* 🤖 Автоматизация процессов
+🚀 Работаю над учебными и командными проектами, изучаю современные технологии разработки и DevOps.
 
-Постоянно развиваю свои навыки через учебные, командные и практические проекты.
+🔭 Сейчас развиваюсь в направлениях:
+
+* Backend-разработка
+* Mobile-разработка
+* DevOps
+* Архитектура программных систем
+* Базы данных
+* Мониторинг и нагрузочное тестирование
+
+🌱 Постоянно изучаю новые технологии и стараюсь применять их в реальных проектах.
 
 ---
 
-## 🚀 Основные проекты
+## 🛠️ Технологии
+
+### Языки программирования
+
+<p align="left">
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+### Mobile & Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,android,html,css,js" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres" />
+</p>
+
+### DevOps & Monitoring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,prometheus,grafana,git,github" />
+</p>
+
+### Тестирование
+
+<p align="left">
+
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white)
+
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge\&logo=zabbix\&logoColor=white)
+
+</p>
+
+---
+
+## 🚀 Мои проекты
 
 ### 🌊 Surf-swap
 
-Проект, связанный с созданием современной цифровой платформы для удобного взаимодействия пользователей.
+Проект, связанный с разработкой цифровой платформы для взаимодействия пользователей.
 
-**Направления работы:**
+**Основные направления:**
 
-`Архитектура` · `Backend` · `API` · `Базы данных`
+`Backend` · `API` · `Database` · `Architecture`
 
 ---
 
 ### 🏪 Unitrade
 
-Проект цифровой платформы, ориентированной на взаимодействие пользователей и торговые процессы.
+Проект цифровой платформы с функциональностью взаимодействия пользователей и торговыми процессами.
 
-**Направления работы:**
+**Основные направления:**
 
-`Backend` · `Mobile Development` · `Базы данных` · `Проектирование систем`
-
----
-
-## 🛠️ Технологический стек
-
-### 💻 Языки программирования
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,dart,sql,js" />
-</p>
-
-### 📱 Мобильная и frontend-разработка
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,android,html,css" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql" />
-</p>
-
-### ☁️ DevOps и инфраструктура
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,prometheus,grafana,linux,git,github" />
-</p>
+`Software Engineering` · `Backend` · `Mobile` · `Database`
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=farrukhh09&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhh09&layout=compact&theme=github_dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=farrukhh09&show_icons=true&locale=ru&theme=tokyonight&hide_border=true"
+    alt="GitHub статистика"
+    height="180"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs?username=farrukhh09&show_icons=true&locale=ru&layout=compact&theme=tokyonight&hide_border=true"
+ alt="Используемые языки"
+ height="180"
+/>
+
 </p>
 
 ---
 
-## 🔥 Активность
+## 🔥 Активность на GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farrukhh09&theme=github-dark-blue&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=farrukhh09&locale=ru&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🧰 Инструменты и технологии
+## 📈 Мой GitHub
 
-```text
-Языки          Java · Kotlin · Python · Dart · SQL
-Mobile         Flutter · Android
-Backend        Spring · FastAPI
-Базы данных    PostgreSQL · MySQL
-DevOps         Docker · Prometheus · Grafana
-Тестирование   JMeter
-Мониторинг     Zabbix · Prometheus · Grafana
-Git            Git · GitHub
-ОС             Linux · macOS
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farrukhh09&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -122,48 +152,69 @@ Git            Git · GitHub
 
 ### РТУ МИРЭА
 
-**Направление:** 09.03.04 — Программная инженерия
+**09.03.04 — Программная инженерия**
 
-В процессе обучения занимаюсь разработкой программных систем, изучаю архитектуру ПО, базы данных, backend- и mobile-разработку, DevOps-инструменты и методы тестирования.
+В рамках обучения занимаюсь:
 
----
-
-## 🌏 Планы развития
-
-После завершения бакалавриата планирую продолжить обучение и развиваться в области программной инженерии и современных информационных технологий.
-
-Особенно интересуют:
-
-> **Backend-разработка · Распределённые системы · Cloud Technologies · Mobile Development · DevOps**
+* разработкой программных систем;
+* проектированием архитектуры;
+* разработкой мобильных приложений;
+* backend-разработкой;
+* базами данных;
+* DevOps и мониторингом;
+* нагрузочным тестированием.
 
 ---
 
-## 📈 Сейчас изучаю и развиваю
+## ⚙️ Что использую в проектах
 
 ```text
-Backend-разработка       ████████████████████░░
-Mobile-разработка        ██████████████████░░░░
-DevOps                   ████████████████░░░░░░
-Архитектура систем       ███████████████░░░░░░░
-Cloud Technologies       █████████████░░░░░░░░░
+Backend
+├── Java
+├── Kotlin
+├── Spring
+└── FastAPI
+
+Mobile
+├── Flutter
+├── Dart
+└── Android
+
+Database
+├── PostgreSQL
+└── MySQL
+
+DevOps
+├── Docker
+├── Prometheus
+├── Grafana
+└── Zabbix
+
+Testing
+└── Apache JMeter
 ```
 
 ---
 
-## 📫 Контакты
+
+---
+
+## 📫 Связь со мной
 
 <p align="center">
-  <a href="https://github.com/farrukhh09">
-    <img src="https://img.shields.io/badge/GitHub-farrukhh09-181717?style=for-the-badge&logo=github" />
-  </a>
+
+<a href="https://github.com/farrukhh09">
+  <img src="https://img.shields.io/badge/GitHub-farrukhh09-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <b>Всегда учусь. Всегда создаю. Всегда развиваюсь.</b>
+  <i>💻 Код → 🚀 Проекты → 📚 Развитие</i>
 </p>
 
 <p align="center">
-  ⭐ Спасибо, что заглянули в мой профиль!
+  ⭐ Спасибо, что посетили мой профиль!
 </p>
