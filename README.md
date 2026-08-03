@@ -1,220 +1,115 @@
-<h1 align="center">Привет 👋, я Фаррух Мирзаев</h1>
-
-<h3 align="center">
-  Software Engineering Student | Developer | IT Enthusiast
-</h3>
-
-<p align="center">
-  <a href="https://github.com/farrukhh09">
-    <img src="https://komarev.com/ghpvc/?username=farrukhh09&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="Просмотры профиля"/>
-  </a>
-  <a href="https://github.com/farrukhh09">
-    <img src="https://img.shields.io/github/followers/farrukhh09?label=Подписчики&style=flat" alt="GitHub followers"/>
-  </a>
-</p>
+# Фаррух Мирзаев — Software Engineering Student
 
 ---
 
-## 👨‍💻 Обо мне
+## 📧 Контакты
 
-🎓 Студент **РТУ МИРЭА** по направлению **09.03.04 — Программная инженерия**
-
-💻 Интересуюсь разработкой программного обеспечения, backend и mobile-разработкой.
-
-🚀 Работаю над учебными и командными проектами, изучаю современные технологии разработки и DevOps.
-
-🔭 Сейчас развиваюсь в направлениях:
-
-* Backend-разработка
-* Mobile-разработка
-* DevOps
-* Архитектура программных систем
-* Базы данных
-* Мониторинг и нагрузочное тестирование
-
-🌱 Постоянно изучаю новые технологии и стараюсь применять их в реальных проектах.
+💻 [GitHub](https://github.com/farrukhh09)
 
 ---
 
-## 🛠️ Технологии
+## 💡 About Me
 
-### Языки программирования
+Студент 4 курса РТУ МИРЭА по направлению «Программная инженерия» (09.03.04).
 
-<p align="left">
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://skillicons.dev/icons?i=kotlin" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://dart.dev/">
-    <img src="https://skillicons.dev/icons?i=dart" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
+Занимаюсь разработкой программного обеспечения и имею практический опыт работы с backend-, mobile- и DevOps-технологиями. В рамках учебных и командных проектов участвовал в разработке программных систем, мобильных приложений, API, баз данных и инфраструктуры.
 
-### Mobile & Frontend
+Имею опыт работы с Flutter, Java, Kotlin и Python, а также с инструментами контейнеризации, мониторинга и нагрузочного тестирования.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,android,html,css,js" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,postgres" />
-</p>
-
-### DevOps & Monitoring
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,prometheus,grafana,git,github" />
-</p>
-
-### Тестирование
-
-<p align="left">
-
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white)
-
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge\&logo=zabbix\&logoColor=white)
-
-</p>
+Интересуюсь архитектурой программных систем, backend-разработкой, мобильными приложениями, DevOps и развитием высоконагруженных систем.
 
 ---
 
-## 🚀 Мои проекты
+## 🛠️ Technical Skills
 
-### 🌊 Surf-swap
+### Backend / Development
 
-Проект, связанный с разработкой цифровой платформы для взаимодействия пользователей.
+Java | Kotlin | Python | Spring | FastAPI | REST API | SQL | Dart
 
-**Основные направления:**
+### Mobile Development
 
-`Backend` · `API` · `Database` · `Architecture`
+Flutter | Android | Dart | Material Design
 
----
+### Databases
 
-### 🏪 Unitrade
+PostgreSQL | MySQL | SQL | Database Design
 
-Проект цифровой платформы с функциональностью взаимодействия пользователей и торговыми процессами.
+### DevOps / Infrastructure
 
-**Основные направления:**
+Docker | Docker Compose | Linux | Prometheus | Grafana | cAdvisor | Zabbix
 
-`Software Engineering` · `Backend` · `Mobile` · `Database`
+### Testing & Performance
 
----
+Apache JMeter | Load Testing | Performance Testing | Stress Testing
 
-## 📊 GitHub статистика
+### Architecture & Design
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=farrukhh09&show_icons=true&locale=ru&theme=tokyonight&hide_border=true"
-    alt="GitHub статистика"
-    height="180"
-  />
+Software Architecture | UML | PlantUML | ERD | System Design | API Design
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs?username=farrukhh09&show_icons=true&locale=ru&layout=compact&theme=tokyonight&hide_border=true"
- alt="Используемые языки"
- height="180"
-/>
+### Tools
 
-</p>
+Git | GitHub | IntelliJ IDEA | Android Studio | Visual Studio Code | macOS | Linux
 
 ---
 
-## 🔥 Активность на GitHub
+## 🤝 Soft Skills
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=farrukhh09&locale=ru&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+Communication | Teamwork | Problem Solving
 
----
+Responsibility | Adaptability | Time Management
 
-## 📈 Мой GitHub
+Analytical Thinking | Learning Ability | Attention to Detail
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farrukhh09&theme=tokyo-night&hide_border=true" />
-</p>
+Task Ownership | Critical Thinking | Self-Development
 
 ---
 
-## 🎓 Образование
+## 🚀 Projects
+
+### Surf-swap
+
+Командный проект, в рамках которого принимал участие в разработке программной системы и реализации её основных функциональных возможностей.
+
+**Основные технологии:**  
+Backend | API | Database | Software Architecture
+
+### Unitrade
+
+Проект цифровой платформы, ориентированной на взаимодействие пользователей и реализацию торговых процессов.
+
+**Основные технологии:**  
+Backend | Mobile Development | Database | System Design
+
+---
+
+## 🎓 Education
 
 ### РТУ МИРЭА
 
 **09.03.04 — Программная инженерия**
 
-В рамках обучения занимаюсь:
+Бакалавриат · 4 курс
 
-* разработкой программных систем;
-* проектированием архитектуры;
-* разработкой мобильных приложений;
-* backend-разработкой;
-* базами данных;
-* DevOps и мониторингом;
-* нагрузочным тестированием.
+Изучаемые направления:
+
+Software Engineering | Programming | Databases | Software Architecture | Information Systems | Testing | DevOps
 
 ---
 
-## ⚙️ Что использую в проектах
+## 📚 Additional Experience
 
-```text
-Backend
-├── Java
-├── Kotlin
-├── Spring
-└── FastAPI
+Практический опыт работы с системами мониторинга и нагрузочного тестирования.
 
-Mobile
-├── Flutter
-├── Dart
-└── Android
+Docker | Prometheus | Grafana | Zabbix | Apache JMeter
 
-Database
-├── PostgreSQL
-└── MySQL
-
-DevOps
-├── Docker
-├── Prometheus
-├── Grafana
-└── Zabbix
-
-Testing
-└── Apache JMeter
-```
+Разработка и тестирование FastAPI-приложений, настройка мониторинга, сбор метрик производительности и проведение нагрузочных испытаний.
 
 ---
 
+## 🎯 Interests
 
----
+Backend Development | Mobile Development | DevOps
 
-## 📫 Связь со мной
+Software Architecture | Distributed Systems | Cloud Technologies
 
-<p align="center">
-
-<a href="https://github.com/farrukhh09">
-  <img src="https://img.shields.io/badge/GitHub-farrukhh09-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>💻 Код → 🚀 Проекты → 📚 Развитие</i>
-</p>
-
-<p align="center">
-  ⭐ Спасибо, что посетили мой профиль!
-</p>
+Performance Engineering | System Monitoring | Software Testing
